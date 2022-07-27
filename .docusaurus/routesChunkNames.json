@@ -1,0 +1,70 @@
+{
+  "/__docusaurus/debug-a17": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-03-c-bd4"
+    }
+  },
+  "/__docusaurus/debug/config-d4c": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-03-c-bd4"
+    }
+  },
+  "/__docusaurus/debug/content-65e": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-03-c-bd4"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-61d": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-03-c-bd4"
+    }
+  },
+  "/__docusaurus/debug/metadata-16a": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-03-c-bd4"
+    }
+  },
+  "/__docusaurus/debug/registry-268": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-03-c-bd4"
+    }
+  },
+  "/__docusaurus/debug/routes-518": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-03-c-bd4"
+    }
+  },
+  "/markdown-page-78d": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-page-056-0ec"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-d7d": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---docs-3-ac-f45"
+    },
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/intro-5ba": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/-879": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__context": {
+      "plugin": "plugin---markdown-page-056-0ec"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

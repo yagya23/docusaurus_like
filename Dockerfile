@@ -16,9 +16,9 @@ COPY --chown=node:node . /home/node/app/
 RUN npm install
 
 # Switch to the node user
-USER node
+#USER node
 
-# Expose port 3000
+# Expose port 5000
 EXPOSE 3000
 
 # Start the app 

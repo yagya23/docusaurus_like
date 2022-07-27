@@ -1,0 +1,15 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "Nikhilesh Mehta",
+  "description": "⚫ Address +91-8793973797 ⚫ Email: nikhileshmehta@outlook.com",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar"
+}
