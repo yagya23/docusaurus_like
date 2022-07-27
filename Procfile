@@ -1,1 +1,0 @@
-web: docusaurus2 --bind :$PORT
