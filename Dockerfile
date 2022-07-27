@@ -17,7 +17,6 @@ COPY --chown=node:node . /home/node/app/
 RUN npm install
 
 
-
 # Switch to the node user
 USER node
 
