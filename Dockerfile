@@ -10,10 +10,12 @@ WORKDIR /home/node/app
 RUN chown -R node:node /home/node
 
 # Copy the source code over
-COPY --chown=node:node . /home/node/app/
+
 
 # Install  with dependencies
 RUN npm install
+
+COPY --chown=node:node . /home/node/app/
 
 # Switch to the node user
 USER node
