@@ -28,4 +28,4 @@ EXPOSE 3000
 # Start the app 
 #CMD ["npm", "start"]
 
-CMD [ "node", "server.js" ]
+CMD [ "node", "docs/intro.md" ]
