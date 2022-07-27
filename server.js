@@ -10,8 +10,7 @@ const HOST = '0.0.0.0';
 // App
 const app = express();
 app.get('/', (req, res) => {
-  res.path(src/pages/index.tsx);
-  //res.send('../src/pages/index.tsx');
+  res.send('Hello World');
   
 });
 
